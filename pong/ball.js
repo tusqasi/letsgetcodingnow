@@ -1,7 +1,7 @@
 class Ball {
 
     constructor(){
-        this.pos = createVector(width / 2, height / 2);
+        this.pos = createVector(random(width / 2), random(height / 2));
         this.vel = p5.Vector.random2D()
 
     }
@@ -39,7 +39,7 @@ class Ball {
 
         let slideY = slider.y
 
-        if ( ballY >= slideY && ballx <= 35 ){
+        if ( ballY >= slideY && ballx <= 30 && ballY <= slideY + slider.h){
             this.vel.x  = -this.vel.x;
             return false;
         }

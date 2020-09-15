@@ -1,7 +1,7 @@
 class Slider {
 	constructor(x, y){
-	this.h = 200;
-	this.w = 20;
+	this.h = 150;
+	this.w = 15;
 	this.x = x;
 	this.y = y;
 	}
