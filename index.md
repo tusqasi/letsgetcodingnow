@@ -7,4 +7,4 @@ For now play [pong](./pong)
 
 or watch boids fly in [flocks](./flock)
 
-Like cold weather! I got you covered. Go watch some snow fall
+Like cold weather! I got you covered. Go watch some [snow](./snow) fall
