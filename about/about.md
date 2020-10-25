@@ -2,7 +2,7 @@
 This website allows me to show you my projects without any hassle of setting things up on your side.
 
 # How this website?
-Now that question, that's for a blog-post, checkout [letsgetcodingnow main page][LGCN]
+Now that question, that's for a blog-posvt, checkout [letsgetcodingnow main page][LGCN]
 
 # Who are you? (As in you asking me)
 Well ... Now that you asked, let me introduce myself.
